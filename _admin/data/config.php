@@ -1,5 +1,5 @@
 <?php return array (
-  'password' => '7ghost',
+  'password' => 'cyf',
   'host' => 'http://www.google.com/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
