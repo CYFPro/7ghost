@@ -1,6 +1,6 @@
 <?php return array (
   'password' => 'cyf',
-  'host' => 'http://zh.wikipedia.org/',
+  'host' => 'http://zh.m.wikipedia.org/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
