@@ -1,6 +1,6 @@
 <?php return array (
   'password' => 'cyf',
-  'host' => 'http://www.youtube.com/',
+  'host' => 'http://zh.wikipedia.org/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
