@@ -1,11 +1,11 @@
 <?php return array (
   'password' => 'cyf',
-  'host' => 'http://www.google.com/',
+  'host' => 'http://www.youtube.com/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
   'static' => '0',
-  'diyStatic' => 'css|js|html|png|jpg',
+  'diyStatic' => 'css|js|html|png|jpg|mp4|gif',
   'cookies' => '0',
   'agent' => '0',
   'referer' => '0',
