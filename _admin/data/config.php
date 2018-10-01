@@ -4,7 +4,7 @@
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
-  'static' => '0',
+  'static' => '1',
   'diyStatic' => 'css|js|html|png|jpg|mp4|gif|mp3|htm|bmp|ico|icon|json|txt',
   'cookies' => '0',
   'agent' => '0',
